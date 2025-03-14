@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JustLift/static/css/main.adf0727f.css",
+    "main.js": "/JustLift/static/js/main.b1f5245f.js",
+    "index.html": "/JustLift/index.html",
+    "main.adf0727f.css.map": "/JustLift/static/css/main.adf0727f.css.map",
+    "main.b1f5245f.js.map": "/JustLift/static/js/main.b1f5245f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf0727f.css",
+    "static/js/main.b1f5245f.js"
+  ]
+}
